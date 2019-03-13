@@ -52,13 +52,16 @@ public class Main {
         //display result
         System.out.println(percentMale);*/
 
-/*        double amountInput1;
-        double amountInput2;
+       /*double amountInput1;
+        double amountInput2;*/
+
+        String name;
 
         Scanner input = new Scanner(System.in);
-        System.out.println("Enter your first input");
-        amountInput1 = input.nextDouble();
-        System.out.println("Enter your second input");
+        System.out.println("Enter number");
+        name = input.nextLine();
+        System.out.println(name);
+        /*System.out.println("Enter your second input");
         amountInput2 = input.nextDouble();
 
         double totalInput;
@@ -70,9 +73,8 @@ public class Main {
         System.out.println("Percent input1: " + percentInput1);
 
 
-        showDisplay(amountInput1, amountInput2);*/
-
-
+        showDisplay(amountInput1, amountInput2);
+*/
     }// END MAIN
 
 /*    public static double getamoutPurchase(double purchaseAmout) {

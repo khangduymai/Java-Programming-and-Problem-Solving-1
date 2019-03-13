@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e8757ea-2a24-411c-8135-3339b8a53d5b" name="Default Changelist" comment="">
+    <list default="true" id="a0fab1e4-d628-49a9-bd4c-7294f45dc44c" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../ArrayBasic/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ArrayBasic/src/CalculatePayRate.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ArrayBasic/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HotDog/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../UniqueRandomNum/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../UniqueRandomNum/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UniqueRandom_Demo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UniqueRandom_Demo/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoScanner/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DemoScanner/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoScanner/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DemoScanner/src/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,8 +27,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="37">
-              <caret line="55" column="30" selection-start-line="54" selection-start-column="7" selection-end-line="55" selection-end-column="30" />
+            <state relative-caret-position="45">
+              <caret line="3" column="65" selection-start-line="3" selection-start-column="65" selection-end-line="3" selection-end-column="65" />
+              <folding>
+                <element signature="e#63#64#0" expanded="true" />
+                <element signature="e#138#139#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -51,31 +61,38 @@
     <option name="width" value="1280" />
     <option name="height" value="777" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="DemoScanner" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DemoScanner" type="462c0819:PsiDirectoryNode" />
+              <item name="shippingCharges" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shippingCharges" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shippingCharges" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shippingCharges" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550185149077" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551911585465" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
@@ -95,7 +112,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="DemoScanner" />
+      <module name="shippingCharges" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -111,29 +128,25 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="5e8757ea-2a24-411c-8135-3339b8a53d5b" name="Default Changelist" comment="" />
-      <created>1548274808530</created>
+      <changelist id="a0fab1e4-d628-49a9-bd4c-7294f45dc44c" name="Default Changelist" comment="" />
+      <created>1551910953062</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1548274808530</updated>
-      <workItem from="1548274809966" duration="1349000" />
-      <workItem from="1548975738905" duration="1586000" />
-      <workItem from="1549917746061" duration="1783000" />
-      <workItem from="1549925691853" duration="4517000" />
-      <workItem from="1550014748249" duration="638000" />
-      <workItem from="1550173680436" duration="487000" />
-      <workItem from="1550183502812" duration="1016000" />
-      <workItem from="1550706857912" duration="288000" />
+      <updated>1551910953062</updated>
+      <workItem from="1551910958978" duration="669000" />
+      <workItem from="1551912007724" duration="810000" />
+      <workItem from="1552163619411" duration="216000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11664000" />
+    <option name="totallyTimeSpent" value="1695000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27786753" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25767368" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -152,7 +165,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.329927" />
+      <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -168,17 +181,14 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/io/FileInputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1844">
-          <caret line="242" column="23" selection-start-line="242" selection-start-column="23" selection-end-line="242" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="37">
-          <caret line="55" column="30" selection-start-line="54" selection-start-column="7" selection-end-line="55" selection-end-column="30" />
+        <state relative-caret-position="45">
+          <caret line="3" column="65" selection-start-line="3" selection-start-column="65" selection-end-line="3" selection-end-column="65" />
+          <folding>
+            <element signature="e#63#64#0" expanded="true" />
+            <element signature="e#138#139#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
