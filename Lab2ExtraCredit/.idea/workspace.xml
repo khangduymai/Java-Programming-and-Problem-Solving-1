@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dd8c5e0e-bef5-44a0-ac31-66ab59d2d77d" name="Default Changelist" comment="">
+    <list default="true" id="0c33ff63-70c7-4726-9f4f-83ba87f9f24d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Lab2_Loop/src/Test.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../SampleLoop/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../SampleLoop/src/Main.java" afterDir="false" />
@@ -9,7 +11,8 @@
       <change afterPath="$PROJECT_DIR$/../printBox/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../DemoScanner/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DemoScanner/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../DemoScanner/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DemoScanner/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1_IOP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab1_IOP/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1_IOP/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab1_IOP/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lab2_Loop/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2_Loop/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lab2_Loop/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2_Loop/src/Main.java" afterDir="false" />
     </list>
@@ -21,7 +24,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="158">
+              <caret line="16" column="50" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -40,7 +53,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="777" />
@@ -53,30 +66,27 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Lab1_IOP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Lab1_IOP" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Lab1_IOP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Lab1_IOP" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab2ExtraCredit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab2ExtraCredit" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548195387927" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554239851368" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RunDashboard">
@@ -94,7 +104,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Lab1_IOP" />
+      <module name="Lab2ExtraCredit" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -110,23 +120,24 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="dd8c5e0e-bef5-44a0-ac31-66ab59d2d77d" name="Default Changelist" comment="" />
-      <created>1548181796102</created>
+      <changelist id="0c33ff63-70c7-4726-9f4f-83ba87f9f24d" name="Default Changelist" comment="" />
+      <created>1554239434868</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1548181796102</updated>
-      <workItem from="1548181799508" duration="4979000" />
-      <workItem from="1553996730750" duration="215000" />
+      <updated>1554239434868</updated>
+      <workItem from="1554239436279" duration="481000" />
+      <workItem from="1554240089970" duration="309000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5194000" />
+    <option name="totallyTimeSpent" value="790000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="777" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="777" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2536349" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -135,7 +146,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.329927" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3328467" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -163,11 +174,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="35" column="84" selection-start-line="21" selection-start-column="7" selection-end-line="35" selection-end-column="84" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="158">
+          <caret line="16" column="50" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
         </state>
       </provider>
     </entry>

@@ -11,6 +11,10 @@ public class Main {
 
         dispplay(NUMBER);
 
+
+
+
+
         //int totalMalenFemale;
         //totalMalenFemale = numMale + numFemale;
         // double percentMale = (numMale/totalMalenFemale)*100;

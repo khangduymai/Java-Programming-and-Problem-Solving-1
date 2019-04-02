@@ -1,5 +1,6 @@
 import java.util.Random;
 import java.util.Scanner;
+import java.lang.Math;
 
 public class Main {
 
@@ -7,60 +8,27 @@ public class Main {
                     , MEDICINE_FOUR= "Cipro", MEDICINE_FIVE= "Vitamin E";
 
     static final int ROUND = 3;
+    static final double HEALTH = 99.0;
     static Scanner keyboard = new Scanner(System.in);
 
-    public static void main(String arg[]){
 
-        String userName, medicineName;
-        int guessingNumber;
-        boolean liveOrDie;
+
+    public static void main(String args[]){
+
+        String userName;
 
         userName = getString("Please enter your name");
 
         displayInstruction(userName);
 
+        double newTotalHealth = calNewHealthBaseOnRound(ROUND);
 
-        double totalHealth = 100;
-
-        for(int i = 0; i < ROUND; i++){
-
-            System.out.println();
-            System.out.println("---- ROUND " + (i+1) + " ----");
-            System.out.println();
-
-            guessingNumber= getInteger("Hi " + userName + " Please enter your medicine");
-
-            guessingNumber= validationNumber(guessingNumber,"Hi " + userName + " Please enter your medicine");
-
-            medicineName = medicineChosen(guessingNumber);
-
-            displayMedicineChosen(medicineName);
-
-            System.out.println();
-
-            liveOrDie = compareRandNum(guessingNumber,medicineName);
-
-            System.out.println();
-            System.out.println();
-
-            if(liveOrDie){
-                System.out.println("Your prescription beat the disease! Well done. \nThank you for saving the patient, Dr." + userName);
-                break;
-            }
-            else{
-                System.out.println("Your prescription did not affect the disease.");
-                totalHealth = totalHealth - calHealthBaseOnRound(ROUND);
-            }
-
-            System.out.println("Your patient’s health is at " + totalHealth);
-
-        }
-
+        playGame(userName, newTotalHealth);
 
 
     } // end main
 
-
+/*-------------------------------------------------------------------------------------------------------------- */
     public static int getInteger(String msg) {
         System.out.println(msg);
         while (!keyboard.hasNextInt()) {
@@ -161,7 +129,7 @@ public class Main {
     }
 
     public static boolean compareRandNum(int medicine, String medicineName ){
-        int randNum = getRandomNumber(1,5);
+        int randNum = getRandomNumber(1,2);
         System.out.println("It is time the patient take the medicine");
         if(randNum == medicine){
             System.out.println("The disease IS  vulnerable to " + medicineName +"!");
@@ -174,10 +142,86 @@ public class Main {
 
     } // end boolean compareRandNum
 
-    public static double calHealthBaseOnRound(int round){
 
-        return  100 / round;
+    
+
+    public static double calNewHealthBaseOnRound(int round){
+
+        return Math.floor(HEALTH / round) * round;
 
     }
+
+    public static boolean displayResult(boolean liveOrDie, String userName){
+        if(liveOrDie){
+            System.out.println("Your prescription beat the disease! Well done. \nThank you for saving the patient, Dr." + userName);
+            return true;
+        }
+        else{
+            System.out.println("Your prescription did not affect the disease.");
+            return false;
+        }
+    }
+
+    public static double healthDecreasing(boolean liveOrDie, double newTotalHealth){
+        if(liveOrDie == false){
+          return   Math.floor(HEALTH/ROUND);
+        }
+
+        return newTotalHealth;
+    }
+
+    public static void displayHealthDecreasing(boolean liveOrDie, double newTotalHealth){
+        if(liveOrDie==false)
+            System.out.println("Your patient’s health is at " + (newTotalHealth));
+    }
+
+
+    public static void playGame(String userName, double newTotalHealth){
+
+        int guessingNumber;
+        String medicineName;
+        boolean liveOrDie = false;
+
+
+        for(int i = 0; i < ROUND && liveOrDie != true; i++){
+
+            System.out.println();
+            System.out.println("---- ROUND " + (i+1) + " ----");
+            System.out.println();
+
+            guessingNumber= getInteger("Hi " + userName + " Please enter your medicine");
+
+            guessingNumber= validationNumber(guessingNumber,"Hi " + userName + " Please enter your medicine");
+
+            medicineName = medicineChosen(guessingNumber);
+
+            displayMedicineChosen(medicineName);
+
+            System.out.println();
+
+            liveOrDie = compareRandNum(guessingNumber,medicineName); //false
+
+            System.out.println();
+            System.out.println();
+
+           /* if(liveOrDie){
+                System.out.println("Your prescription beat the disease! Well done. \nThank you for saving the patient, Dr." + userName);
+                break;
+            }
+            else{
+                System.out.println("Your prescription did not affect the disease.");
+                newTotalHealth -= Math.floor(100.0/ROUND);
+            }
+
+            System.out.println("Your patient’s health is at " + (newTotalHealth));*/
+
+            liveOrDie= displayResult(liveOrDie, userName); //false
+            newTotalHealth -= healthDecreasing(liveOrDie, newTotalHealth);
+            displayHealthDecreasing(liveOrDie,newTotalHealth);
+
+        }
+    }
+
+
 
 } // end class

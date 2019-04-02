@@ -10,7 +10,16 @@ public class Main {
         //System.out.println("Hello world");
 
         //Declare instance variable
-        String name;
+        int a = 20;
+        int b = 30;
+        if(a > b){
+            System.out.println("good");
+        }
+        else if(a < b){
+            System.out.println("bad");
+        }
+
+       /* String name;
 
         displayWelcomeMessage();
 
@@ -24,7 +33,7 @@ public class Main {
         getInteger();
 
         System.out.println();
-        System.out.println("Here is your random number is: " + getRandomNumber());
+        System.out.println("Here is your random number is: " + getRandomNumber());*/
     }
 
     //Creating function display message
