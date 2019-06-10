@@ -3,7 +3,7 @@ import java.util.Random;
 public class Main {
 
 
-    final static int SIZE = 5;
+    final static int SIZE = 69;
 
 
     public static void main(String args[]){

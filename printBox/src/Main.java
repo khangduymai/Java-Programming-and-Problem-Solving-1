@@ -1,10 +1,10 @@
 import java.awt.*;
 
 public class Main {
+    
 
     public static void main(String args[]){
         int row = 10, col = 30;
-
 
         /*for(int i = 0; i < row; i++){
             if(i==0 || i == (row-1)){

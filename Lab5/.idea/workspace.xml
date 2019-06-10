@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="46c3b817-8b0e-498d-ad50-61685db9145b" name="Default Changelist" comment="">
+    <list default="true" id="6c2f3331-a877-4291-94b2-cc0ca7bf37ec" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../InsertionSort/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../InsertionSort/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../InsertionSort/.idea/modules.xml" afterDir="false" />
@@ -13,8 +13,10 @@
       <change afterPath="$PROJECT_DIR$/../Lab3/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Lab4/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Lab4/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab5/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab5/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab 5 Description.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../OOP Practice/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../OOP_inclass/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../OOP_inclass/.idea/misc.xml" afterDir="false" />
@@ -40,7 +42,8 @@
       <change afterPath="$PROJECT_DIR$/../Stack/src/StackOfInteger.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lab2_Loop/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2_Loop/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lab2_Loop/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2_Loop/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UniqueRandomNum/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UniqueRandomNum/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UniqueRandomNum/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../UniqueRandomNum/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../printBox/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../printBox/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../printBox/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../printBox/src/Main.java" afterDir="false" />
     </list>
@@ -53,11 +56,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="276">
+              <caret line="96" column="13" lean-forward="true" selection-start-line="96" selection-start-column="13" selection-end-line="96" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../Reuse_Code/InputRoutinesWithScannerV4/IR4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="518">
+              <caret line="169" column="4" selection-start-line="167" selection-start-column="3" selection-end-line="169" selection-end-column="4" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -77,42 +92,43 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/../UniqueRandomNum/src/Main.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="480" />
-    <option name="y" value="63" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="777" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="UniqueRandomNum" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UniqueRandomNum" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab5" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550705561087" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557072383623" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
@@ -132,7 +148,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="UniqueRandomNum" />
+      <module name="Lab5" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -148,23 +164,24 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="46c3b817-8b0e-498d-ad50-61685db9145b" name="Default Changelist" comment="" />
-      <created>1550683461881</created>
+      <changelist id="6c2f3331-a877-4291-94b2-cc0ca7bf37ec" name="Default Changelist" comment="" />
+      <created>1556919355772</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1550683461881</updated>
-      <workItem from="1550683465193" duration="7561000" />
-      <workItem from="1556924330566" duration="212000" />
+      <updated>1556919355772</updated>
+      <workItem from="1556919358291" duration="11510000" />
+      <workItem from="1557515336231" duration="1204000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7773000" />
+    <option name="totallyTimeSpent" value="12714000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="777" extended-state="6" />
+    <frame x="0" y="23" width="1280" height="777" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09289176" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2536349" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -173,7 +190,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.329927" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3240876" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -199,10 +216,32 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../UniqueRandomNum/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../UniqueRandom_Demo/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-21" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="276">
+          <caret line="96" column="13" lean-forward="true" selection-start-line="96" selection-start-column="13" selection-end-line="96" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Reuse_Code/InputRoutinesWithScannerV4/IR4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="518">
+          <caret line="169" column="4" selection-start-line="167" selection-start-column="3" selection-end-line="169" selection-end-column="4" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

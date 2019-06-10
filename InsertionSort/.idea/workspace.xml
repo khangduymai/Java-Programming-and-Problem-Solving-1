@@ -1,33 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="46c3b817-8b0e-498d-ad50-61685db9145b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../InsertionSort/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InsertionSort/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InsertionSort/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InsertionSort/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InsertionSort/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InsertionSort/InsertionSort.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InsertionSort/src/Main.java" afterDir="false" />
+    <list default="true" id="ff4f2f7b-4f80-4fc9-ab7c-e3510bd7707a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InsertionSort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Lab3/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Lab3/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Lab4/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Lab4/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab5/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab5/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOP Practice/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOP_inclass/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOP_inclass/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOP_inclass/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOP_inclass/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOP_inclass/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOP_inclass/OOP_inclass.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOP_inclass/src/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOP_inclass/src/Beagle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOP_inclass/src/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOP_inclass/src/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOP_inclass/src/Poodle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOP_inclass/src/Program14_6.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../SelectionSort/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../SelectionSort/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../SelectionSort/.idea/modules.xml" afterDir="false" />
@@ -35,14 +20,8 @@
       <change afterPath="$PROJECT_DIR$/../SelectionSort/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../SelectionSort/SelectionSort.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../SelectionSort/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Stack/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Stack/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Stack/src/StackOfInteger.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lab2_Loop/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2_Loop/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lab2_Loop/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2_Loop/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../printBox/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../printBox/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../printBox/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../printBox/src/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -53,12 +32,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="158">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/Downloads/ArrayPractice2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-936" />
           </provider>
         </entry>
       </file>
@@ -78,41 +64,42 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/../../JAVA-OOP/InheritancePart1/src/Dog.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="480" />
-    <option name="y" value="63" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="777" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="UniqueRandomNum" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UniqueRandomNum" type="462c0819:PsiDirectoryNode" />
+              <item name="InsertionSort" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InsertionSort" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550705561087" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555637564293" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
@@ -132,7 +119,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="UniqueRandomNum" />
+      <module name="InsertionSort" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -148,23 +135,24 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="46c3b817-8b0e-498d-ad50-61685db9145b" name="Default Changelist" comment="" />
-      <created>1550683461881</created>
+      <changelist id="ff4f2f7b-4f80-4fc9-ab7c-e3510bd7707a" name="Default Changelist" comment="" />
+      <created>1555626809905</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1550683461881</updated>
-      <workItem from="1550683465193" duration="7561000" />
-      <workItem from="1556924330566" duration="212000" />
+      <updated>1555626809905</updated>
+      <workItem from="1555626814432" duration="4297000" />
+      <workItem from="1555784814232" duration="332000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7773000" />
+    <option name="totallyTimeSpent" value="4629000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="777" extended-state="6" />
+    <frame x="0" y="23" width="1280" height="777" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09289176" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2536349" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -199,11 +187,37 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../../JAVA-OOP/InheritancePart1/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../JAVA-OOP/InheritancePart1/src/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../JAVA-OOP/InheritancePart1/src/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-63">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="158">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/ArrayPractice2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-936" />
       </provider>
     </entry>
   </component>

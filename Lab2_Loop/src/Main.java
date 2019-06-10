@@ -7,7 +7,7 @@ public class Main {
     static final String MEDICINE_ONE = "Ciprofloxacin", MEDICINE_TWO = "Amoxicillin", MEDICINE_THREE = "Penicillin"
                     , MEDICINE_FOUR= "Cipro", MEDICINE_FIVE= "Vitamin E";
 
-    static final int ROUND = 3;
+    static final int ROUND = 6;
     static final double HEALTH = 99.0;
     static Scanner keyboard = new Scanner(System.in);
 
@@ -129,7 +129,7 @@ public class Main {
     }
 
     public static boolean compareRandNum(int medicine, String medicineName ){
-        int randNum = getRandomNumber(1,2);
+        int randNum = getRandomNumber(6,8);
         System.out.println("It is time the patient take the medicine");
         if(randNum == medicine){
             System.out.println("The disease IS  vulnerable to " + medicineName +"!");
