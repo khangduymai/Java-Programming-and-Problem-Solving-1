@@ -4,7 +4,7 @@ public class Main {
     
 
     public static void main(String args[]){
-        int row = 10, col = 30;
+        int row = 6, col = 6;
 
         /*for(int i = 0; i < row; i++){
             if(i==0 || i == (row-1)){
@@ -35,7 +35,7 @@ public class Main {
                 System.out.println();
             }*/
 
-           for(int i = 0; i < row; i++){
+/*           for(int i = 0; i < row; i++){
                for(int j = 0; j < col; j++){
                    if(i==0 || i == row-1){
                        System.out.print("*");
@@ -49,6 +49,27 @@ public class Main {
             System.out.println();
 
         } //end big loop for row
+        */
+
+    /*
+             *
+            **
+           ***
+          ****
+         *****
+        ******
+     */
+
+        for(int r = 0; r < row; r++){
+            for(int c = 0; c < col; c++){
+                if(c >= col - r){
+                    System.out.print("*");
+                }
+                else
+                    System.out.print(" ");
+            }
+            System.out.println();
+        }
 
     } //end main
 

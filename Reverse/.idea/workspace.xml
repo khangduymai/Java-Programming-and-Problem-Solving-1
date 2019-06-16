@@ -1,56 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="735c443d-3102-44a0-9d33-77e50cdb1cab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../2DArray/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2DArray/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InsertionSort/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InsertionSort/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InsertionSort/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InsertionSort/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InsertionSort/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InsertionSort/InsertionSort.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InsertionSort/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab3/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab3/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab4/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab4/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab5/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab5/Lab 5 Description.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab5/Lab5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab5/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOP Practice/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOP_inclass/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOP_inclass/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOP_inclass/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOP_inclass/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOP_inclass/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOP_inclass/OOP_inclass.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOP_inclass/src/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOP_inclass/src/Beagle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOP_inclass/src/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOP_inclass/src/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOP_inclass/src/Poodle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOP_inclass/src/Program14_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SelectionSort/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SelectionSort/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SelectionSort/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SelectionSort/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SelectionSort/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SelectionSort/SelectionSort.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SelectionSort/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Stack/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Stack/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Stack/src/StackOfInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab2_Loop/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2_Loop/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab2_Loop/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2_Loop/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../UniqueRandomNum/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UniqueRandomNum/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../UniqueRandomNum/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../UniqueRandomNum/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../printBox/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../printBox/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../printBox/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../printBox/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="735c443d-3102-44a0-9d33-77e50cdb1cab" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +10,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="532">
+              <caret line="45" column="33" selection-start-line="45" selection-start-column="33" selection-end-line="45" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -91,7 +52,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -103,6 +63,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -151,28 +112,24 @@
       <option name="presentableId" value="Default" />
       <updated>1558555397124</updated>
       <workItem from="1558555398565" duration="4143000" />
+      <workItem from="1560201629496" duration="56000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4143000" />
+    <option name="totallyTimeSpent" value="4199000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2536349" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.329927" />
@@ -180,15 +137,21 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,7 +160,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
+        <state relative-caret-position="532">
           <caret line="45" column="33" selection-start-line="45" selection-start-column="33" selection-end-line="45" selection-end-column="33" />
         </state>
       </provider>

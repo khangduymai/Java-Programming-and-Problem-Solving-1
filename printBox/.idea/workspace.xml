@@ -2,27 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b3ebca5-745c-406d-bc11-6c1893df5b36" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../InsertionSort/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InsertionSort/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InsertionSort/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InsertionSort/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InsertionSort/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InsertionSort/InsertionSort.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InsertionSort/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab3/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab3/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab4/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab4/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SelectionSort/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SelectionSort/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SelectionSort/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SelectionSort/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SelectionSort/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SelectionSort/SelectionSort.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SelectionSort/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab2_Loop/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2_Loop/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab2_Loop/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2_Loop/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Reverse/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Reverse/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -37,8 +17,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+            <state relative-caret-position="217">
+              <caret line="64" column="23" selection-start-line="64" selection-start-column="23" selection-end-line="64" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -62,7 +42,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="777" />
@@ -75,7 +55,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -88,6 +67,7 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -141,17 +121,18 @@
       <workItem from="1553963850971" duration="66000" />
       <workItem from="1555888888421" duration="1085000" />
       <workItem from="1555897244582" duration="28000" />
+      <workItem from="1560724437445" duration="1131000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3610000" />
+    <option name="totallyTimeSpent" value="4741000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="777" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="777" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26979" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27382874" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -160,7 +141,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.329927" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329927" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -188,8 +169,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        <state relative-caret-position="217">
+          <caret line="64" column="23" selection-start-line="64" selection-start-column="23" selection-end-line="64" selection-end-column="23" />
         </state>
       </provider>
     </entry>
